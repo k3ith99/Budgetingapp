@@ -30,6 +30,11 @@ Use Lucid charts
 ## Future features and Improvements
 
 ### Future features
+* Add a login feature (Authentication and Authorisation)
+* Set different types of goals monthly
+* Create money pots for different goals
+* Use NextJs
+* Track User investments(Maybe a stretch)
 
 ### Improvements
 
