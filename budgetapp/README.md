@@ -38,6 +38,7 @@ Use Lucid charts
 * Create money pots for different goals
 * Use NextJs
 * Track User investments(Maybe a stretch)
+* Containerise application
 
 ### Improvements
 
