@@ -24,9 +24,12 @@ Use Lucid charts
 
 * Client
   * React Front end
+  * Netlify 
 * API Server
-  *
+  * Python flask
+  * Heroku
 * Database
+ * MongoDB
 ## Future features and Improvements
 
 ### Future features
