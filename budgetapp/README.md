@@ -40,7 +40,14 @@ Use Lucid charts
 * Track User investments(Maybe a stretch)
 * Containerise application
 
-### Improvements
+
+### Improvements [pending]
+* Containerise application
+* Deploy on AWS
+* Deploy on AWS using terraform
+* Use NextJs for frontend
+* Deploy on kubernetes both with terraform and without it
+* Use django(not necessary)
 
 ## Bugs
 
